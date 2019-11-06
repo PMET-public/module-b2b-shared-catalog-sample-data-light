@@ -1,0 +1,16 @@
+{
+  "name": "module-b2b-shared-catalog-sample-data-light",
+  "description": "",
+  "type": "magento2-module",
+  "license": [
+    "BSD-3-Clause"
+  ],
+  "autoload": {
+    "files": [
+      "registration.php"
+    ],
+    "psr-4": {
+      "MagentoEse\\B2bSharedCatalogSampleDataLight\\": ""
+    }
+  }
+}
